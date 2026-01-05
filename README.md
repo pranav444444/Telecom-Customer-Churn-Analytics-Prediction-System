@@ -230,6 +230,7 @@ Customer Churn Analytics Project/
 ## 👤 Author
 
 **Pranav Patel**
+
 📌 Aspiring Data Analyst | Business Analytics | Machine Learning
 🔗 LinkedIn & GitHub linked directly inside the dashboards
 
