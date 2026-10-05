@@ -559,7 +559,7 @@ Predicted Churners: 386
 
 ### Dashboard Preview
 
-<img width="1346" height="744" alt="Telecom Customer Churn Prediction Dashboard" src="https://github.com/user-attachments/assets/d848bf0f-d758-42ee-b3d0-df72a56edbfc" />
+<img width="1337" height="755" alt="image" src="https://github.com/user-attachments/assets/a2943028-8114-41ea-a26d-67b35f2ee7a3" />
 
 ---
 
